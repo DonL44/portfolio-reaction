@@ -42,6 +42,7 @@ body {
   font-size: 18px;
   letter-spacing: 0.1em;
   background: var(--dark);
+  background-image: url("https://media3.giphy.com/media/BW51OCstarPBm/giphy.gif?cid=ecf05e47k5gnr274vjjr64xaxsxpn1kzvc9kvv7in7hqsjch&rid=giphy.gif&ct=g");
   color: var(--light);
 }
 
@@ -97,6 +98,7 @@ a {
 }
 
 header {
+  
   width: 100%;
   position: relative;
   margin-top: 0;
@@ -106,11 +108,11 @@ header {
   align-items: baseline;
   padding: 10px;
   border-bottom: 2px solid black;
-  background: wheat;
+  background: black;
 }
 
 header a {
-  color: var(--dark);
+  color: var(--white);
 }
 
 button {
@@ -322,7 +324,7 @@ footer {
   justify-content: center;
   align-items: center;
   border-top: 2px solid black;
-  background: wheat; 
+  background: black; 
 }
 
 li {
@@ -333,5 +335,5 @@ footer ul li {
   display: inline;
   font-size: 2rem;
   padding: 1rem;
-  color: black;
+  color: white;
 }
