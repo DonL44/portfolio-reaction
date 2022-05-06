@@ -1,11 +1,11 @@
 import React from 'react';
 
-import PlaceHolderOne from "../../assets/images/placeholder_1_600.jpg";
-import PlaceHolderTwo from "../../assets/images/placeholder_2_600.jpg";
-import PlaceHolderThree from "../../assets/images/placeholder_3_600.jpg";
-import LookUp from "../../assets/images/LookUp-new.png";
-import MakeAppoint from "../../assets/images/make-a-point-app.png";
-import FinalProject from "../../assets/images/Final-Project.jpg";
+import PlaceHolderOne from "../../assets/images/placeholder_1_600.gif";
+import PlaceHolderTwo from "../../assets/images/placeholder_2_600.gif";
+import PlaceHolderThree from "../../assets/images/placeholder_3_600.gif";
+import LookUp from "../../assets/images/LookUp-new.gif";
+import MakeAppoint from "../../assets/images/make-a-point-app.gif";
+import FinalProject from "../../assets/images/Final-Project.gif";
 
 function Portfolio() {
   return (
@@ -21,10 +21,10 @@ function Portfolio() {
             />
             <div class="card-body">
 
-              <a href="https://github.com/kara-krzystan/lookup-by-ben-kara-kristin" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DonL44/newage-datingblog/tree/dons" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://benmcrae5.github.io/lookup-by-ben-kara-kristin" target="_blank" rel="noreferrer">
+              <a href="https://newage-datingblog.herokuapp.com/" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -40,10 +40,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan/Team-Project-Wk15" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DonL44/super-song-search" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://team-project-wk15.herokuapp.com/" target="_blank" rel="noreferrer">
+              <a href="https://jasonwesleysmith.github.io/super-song-search/" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -58,10 +58,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan/final-final-v3" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DonL44/Portfolio" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://radiant-scrubland-03545.herokuapp.com/" target="_blank" rel="noreferrer">
+              <a href="https://donl44.github.io/Portfolio/" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -77,10 +77,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DonL44" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DonL44" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -95,10 +95,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DonL44" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DonL44" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -113,10 +113,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DonL44" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DonL44" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>

@@ -17,8 +17,8 @@ main {
   --secondary: #4892c4;
   --tertiary: #063664;
   --light: #fafafa;
-  --dark: #1a1a1a;
-  --error: rgb(99, 0, 0);
+  --dark: #a30000;
+  --error: rgb(0, 0, 0);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
@@ -100,13 +100,12 @@ a {
 header {
   
   width: 100%;
-  position: relative;
+  position: fixed;
   margin-top: 0;
   left: 0;
   display: flex;
   justify-content: center;
   align-items: baseline;
-  padding: 10px;
   border-bottom: 2px solid black;
   background: black;
 }
@@ -174,13 +173,13 @@ li {
 
 nav a:hover {
   text-decoration: none;
-  color: black;
+  color: gray;
   font-style: italic;
 }
 
 .logo a:hover {
   text-decoration: none;
-  color: black;
+  color: gray;
   font-style: italic;
 }
 
@@ -317,6 +316,7 @@ button {
 }
 
 footer {
+  height: 10%;
   width: 100%;
   position: fixed;
   bottom: 0;
