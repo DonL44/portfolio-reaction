@@ -19,7 +19,7 @@ https://donl44.github.io/portfolio-reaction/
 
 ## Screenshot
 
-![screenshot](src\assets\images\screenshot.png)
+![screenshot](https://github.com/DonL44/portfolio-reaction/blob/4deafa021de5cfe6ae7272e7ae6ec0bbe3ea388f/src/assets/images/screenshot.png)
 
 
 ## Contact
