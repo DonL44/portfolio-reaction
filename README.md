@@ -23,4 +23,4 @@ https://donl44.github.io/portfolio-reaction/
 
 
 ## Contact
-[Kara Krzystan on GitHub](https://github.com/DonL44)
+[Don L on GitHub](https://github.com/DonL44)
