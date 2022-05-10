@@ -10,7 +10,7 @@ import FinalProject from "../../assets/images/Final-Project.gif";
 function Portfolio() {
   return (
     <section class="portfolio">
-
+      <br></br>
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 g-4">
         <div class="col">
           <div class="card">
