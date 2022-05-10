@@ -6,11 +6,11 @@ function Home() {
   return (
     <section className="home my-5">
       <div className="title">
-        <h2>Hi, I'm DonL</h2>
+        <br></br><br></br><br></br><h2>Hi, I'm DonL</h2>
         <p>Enter into my Student Portfolio!</p>
         <Link to="portfolio">
           <button>View my Projects</button>
-        </Link>
+        </Link><br></br><br></br><br></br><br></br>
       </div>
       <div className="portrait">
         <img
