@@ -6,6 +6,7 @@ import PlaceHolderThree from "../../assets/images/placeholder_3_600.gif";
 import LookUp from "../../assets/images/LookUp-new.gif";
 import MakeAppoint from "../../assets/images/make-a-point-app.gif";
 import FinalProject from "../../assets/images/Final-Project.gif";
+import Hanzai from "../../assets/images/hanzai_watchers.gif"
 
 function Portfolio() {
   return (
@@ -72,15 +73,15 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={PlaceHolderOne}
-              alt="Coming Soon"
+              src={Hanzai}
+              alt="Crime App"
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/DonL44" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DonL44/anime_crime-watchers" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/DonL44" target="_blank" rel="noreferrer">
+              <a href="https://hanzai-watchers.herokuapp.com/" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
